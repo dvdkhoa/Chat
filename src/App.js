@@ -13,7 +13,7 @@ const App = () => {
   const joinRoom = async (user, room) => {
     try {
       const connection = new HubConnectionBuilder()
-        .withUrl("http://www.dvdkhoa.somee.com/")
+        .withUrl("http://www.dvdkhoa.somee.com/chat")
         .configureLogging(LogLevel.Information)
         .build();
 
