@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\React-JS\\redux"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\React-JS\\redux-thunk"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
